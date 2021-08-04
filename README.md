@@ -1,9 +1,13 @@
 ### Olá eu sou o João Victor Medeiros
 
-<div>
-  <a href="https://github.com/joaomedeirosr">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joaomedeirosr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomedeirosr&layout=compact&langs_count=7&theme=dracula"/>
+- 🔭 Currently Work: Cloud Computing & Cyber Security
+- 👨‍🎓 Studying : Electronic Engineering at UFU
+- 🌱 Learning: Inteligência Artificial, Visão Computacional ,Véiculos Autônomos , Robótica e Automação
+- 😄 Pronouns: ele/dele
+
+<<a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
