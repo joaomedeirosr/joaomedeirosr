@@ -1,9 +1,13 @@
-### Olá eu sou o João Victor Medeiros
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 Currently Work: Cloud Computing & Cyber Security
 - 👨‍🎓 Studying : Electronic Engineering at UFU
 - 🌱 Learning: Inteligência Artificial, Visão Computacional ,Véiculos Autônomos , Robótica e Automação
-- 😄 Pronouns: ele/dele
+- 💬 Ask me about **JavaScript, HTML, CSS, Python, Flutter**
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <div>
 <a href="https://github.com/joaomedeirosr">
@@ -11,6 +15,9 @@
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomedeirosr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+  <br><br>
+  
+  ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joao-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
