@@ -1,10 +1,11 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Joao Victor Medeiros</h1>
+<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Joao Victor Medeiros </h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaomedeirosr&color=green" alt="Profile views" /> </p>
 
 - 🔭 Currently Work: Cloud Computing & Cyber Security
 - 👨‍🎓 Studying : Electronic Engineering at UFU
-- 🌱 Learning: Inteligência Artificial, Visão Computacional ,Véiculos Autônomos , Robótica e Automação
-- 💬 Ask me about **JavaScript, HTML, CSS, Python, Flutter**
+- 🌱 Learning: Artificial Inteligence , Computer Vision , Autonomous Vehicles , Robotics, Automation
+- 💬 Ask me about: **JavaScript , HTML , CSS , Python , Flutter , C , C++**
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
