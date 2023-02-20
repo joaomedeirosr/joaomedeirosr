@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaomedeirosr&color=green" alt="Profile views" /> </p>
 
-- 🔭 Currently Work: Mobile Development at MbLabs
+- 🔭 Currently Work: Computer Vision and Machine Learning R&D Engineer
 - 👨‍🎓 Studying : Electronic Engineering at UFU
 - 🌱 Learning: Artificial Inteligence , Computer Vision , Autonomous Vehicles , Robotics, Automation
 - 💬 Ask me about: **JavaScript , HTML , CSS , Python , Flutter , Dart , C , C++**
