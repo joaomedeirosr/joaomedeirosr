@@ -5,7 +5,7 @@
 - 🔭 Currently Work: Computer Vision and Machine Learning R&D Engineer at Kasco
 - 👨‍🎓 Studying : Electronic Engineering at UFU
 - 🌱 Learning: Artificial Inteligence , Computer Vision , Autonomous Vehicles , Robotics, Automation
-- 💬 Ask me about: **JavaScript , HTML , CSS , Python , Flutter , Dart , C , C++**
+- 💬 Ask me about: ** Python , Go , Nvidia CUDA , C , C++**
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
