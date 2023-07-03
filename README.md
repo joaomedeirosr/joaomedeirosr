@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaomedeirosr&color=green" alt="Profile views" /> </p>
 
-- 🔭 Currently Work: Computer Vision and Machine Learning R&D Engineer at Kasco
+- 🔭 Currently Work: Computer Vision and Deep Learning R&D Engineer at Kasco
 - 👨‍🎓 Studying : Electronic Engineering at UFU
 - 🌱 Learning: Artificial Inteligence , Computer Vision , Autonomous Vehicles , Robotics, Automation
 - 💬 Ask me about: **Python , C++ , Go , C , ROS , MATLAB , NVIDIA CUDA**
