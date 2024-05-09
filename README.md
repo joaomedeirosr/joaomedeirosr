@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaomedeirosr&color=green" alt="Profile views" /> </p>
 
 - 🔭 Currently Work: Computer Vision and Deep Learning R&D Engineer at Kasco
-- 👨‍🎓 Studying : Master Degree Mobile Robotics at Unicamp
-- 🌱 Learning: Artificial Inteligence , Computer Vision , Autonomous Vehicles , Robotics, Automation
-- 💬 Ask me about: **Python , C++ , Go , C , ROS , MATLAB , NVIDIA CUDA, Pytorch, TensorFlow, TensorRT**
+- 👨‍🎓 Studying : Master Degree, Robotics and Reinforcement Learning at Unicamp
+- 🌱 Learning:  Robotics, Reinforcement Learning, Deep Learning , Computer Vision , Autonomous Vehicles
+- 💬 Ask me about: **Python , C++ , C , Go , ROS , MATLAB , NVIDIA CUDA, Pytorch, TensorFlow, TensorRT**
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
