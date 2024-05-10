@@ -5,7 +5,7 @@
 - 🔭 Currently Work: Computer Vision and Deep Learning R&D Engineer at Kasco
 - 👨‍🎓 Studying : Master Degree, Robotics and Reinforcement Learning at Unicamp
 - 🌱 Learning:  Robotics, Reinforcement Learning, Deep Learning , Computer Vision , Autonomous Vehicles
-- 💬 Ask me about: **Python , C++ , C , Go , Nvidia Jetson , ROS , MATLAB , NVIDIA CUDA, Pytorch, TensorFlow, TensorRT , Deep Stream , Triton Server **
+- 💬 Ask me about: **Python , C++ , C , Go , Nvidia Jetson , ROS , MATLAB , NVIDIA CUDA, Pytorch, TensorFlow, TensorRT , Deep Stream**
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
