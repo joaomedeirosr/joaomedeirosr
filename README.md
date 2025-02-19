@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaomedeirosr&color=green" alt="Profile views" /> </p>
 
 - 🔭 Currently Work: Computer Vision and Deep Learning R&D Engineer at Kasco
-- 👨‍🎓 Studying : Master Degree student, researching Robotics, Computer Vision and Reinforcement Learning at Unicamp
-- 🌱 Learning:  Robotics, Reinforcement Learning, Deep Learning , Computer Vision , Autonomous Vehicles
-- 💬 Ask me about: **Python , C++ , C , Go , Nvidia Jetson , ROS , MATLAB , NVIDIA CUDA, Pytorch, TensorFlow, TensorRT , Deep Stream**
+- 👨‍🎓 Studying : Master Degree student, researching Robotics, Aerial Robotics and Embodied AI at Unicamp
+- 🌱 Learning:  Robotics, Embodied AI, Reinforcement Learning
+- 💬 Ask me about: **Python , C++ , C , Go , Nvidia Jetson , ROS , MATLAB , NVIDIA CUDA, Pytorch,TensorRT , Deep Stream**
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -31,16 +31,11 @@
   <img align="center" alt="Joao-Numpy"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
   <img align="center" alt="Joao-ROS"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg"  >
   <img align="center" alt="Joao-pandas"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"   >
-  <img align="center" alt="Joao-Tensor"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="Joao-scikit"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
   <img align="center" alt="Joao-qt"      height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" >
   <img align="center" alt="Joao-postgres"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Joao-Docker"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Joao-Azure"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" >
-  <img align="center" alt="Joao-aws"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Joao-airflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg">
-
-
 </div>
   
 <br><br>
