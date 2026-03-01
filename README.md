@@ -37,12 +37,4 @@
   <img align="center" alt="Joao-Docker"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Joao-Azure"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" >
 </div>
-  
-<br><br>
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://1.bp.blogspot.com/-P2czKkFRxR4/XsWVqthXVXI/AAAAAAABJVY/sEYSKbsGUZcogNCAnoxzmGGTau8Q-OPkACK4BGAsYHg/MATEM%25C3%2581TICA2.gif">
 
-## 👨‍💻  &nbsp;Social Links
-  <div> 
-  <a href="https://instagram.com/jjjvmedeiros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joao.medeiros.ufu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaomedeirosr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
