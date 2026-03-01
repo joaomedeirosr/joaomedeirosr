@@ -7,15 +7,6 @@
 - 🌱 Learning:  Robotics, Embodied AI, Reinforcement Learning
 - 💬 Ask me about: **Python, C++, Rust, Pytorch, JAX, ROS, NVIDIA Jetson, Isaac Lab, MuJoCO, MATLAB, TensorRT, CUDA, Deep Stream**
 <br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-<div>
-  <a href="https://github.com/joaomedeirosr">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=joaomedeirosr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomedeirosr&layout=compact&langs_count=7&theme=dracula" />
-  </a>
-</div>  
-  <br><br>
   
   ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block"><br>
