@@ -8,7 +8,7 @@
 - 💬 Ask me about: **Python, C++, Rust, Pytorch, JAX, ROS, NVIDIA Jetson, Isaac Lab, MuJoCO, MATLAB, TensorRT, CUDA, Deep Stream**
 <br><br>
   
-  ## 🛠 &nbsp;Tech Stack
+  ## 🛠️ &nbsp;Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Python"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joao-Rust"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
