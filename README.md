@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaomedeirosr&color=green" alt="Profile views" /> </p>
 
-- 🔭 Currently Work: Senior Machine Learning R&D Engineer at LongPing High-Tech 🇨🇳
+- 💼 Currently Work: Senior Machine Learning R&D Engineer at LongPing High-Tech 
 - 👨‍🎓 Studying : Master Degree student, researching Humanoid Robtics and Embodied AI at Unicamp
-- 🌱 Learning:  Robotics, Embodied AI, Reinforcement Learning
+- 💡 Learning:  Robotics, Embodied AI, Reinforcement Learning
 - 💬 Ask me about: **Python, C++, Rust, Pytorch, JAX, ROS, NVIDIA Jetson, Isaac Lab, MuJoCO, MATLAB, TensorRT, CUDA, Deep Stream**
 <br><br>
   
